@@ -1,7 +1,5 @@
 #include <stdio.h>
-
-int main()
+main()
 {
-    printf("Wassup my bruda\nI don't know how to use this shit\nHope I don't lose my head over this!!!\n");
-    return 0;
+    printf("Wassup my bruda\nI don't know how to use this shit\nHope I don't lose my head over this!!!\ng");
 }
